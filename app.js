@@ -8,7 +8,7 @@ const date = require(__dirname + '/date.js');
 app.set('view engine', 'ejs');
 app.use(express.urlencoded({ extended: true }));
 app.use(express.static('public'));
-mongoose.connect('mongodb+srv://admin-alex:OGyJoLXwiUnFxtWu@cluster0.bgyt3ji.mongodb.net/todolistDB', { useNewUrlParser: true });
+mongoose.connect('mongodb://localhost/todolistDB', { useNewUrlParser: true });
 
 const itemsSchema = {
     name: String
