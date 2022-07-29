@@ -9,11 +9,12 @@ A **ToDo List** it’s a list of tasks you need to complete or things that you w
 ### What's included
 
 + Basic codes of EJS x HTML & CSS
-+ Implementation of the CSS framework Bootstrap 5
 + Node.js & npm packages:
   * Express.js
   * EJS
   * Lodash
+  * Mongoose
++ Implementation of node modules
 + Responsive design & Media Queries
 + Code with accessibility
 + Conventions & Best Practices
