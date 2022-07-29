@@ -1,4 +1,4 @@
-## <p align="center"><a href="https://todolist-1337.herokuapp.com/"><img src="https://i.postimg.cc/njFQwkss/logo.png" alt="logo" width="150px" border="0"></a></p>ToDo List
+## <p align="center"><a href="https://todolist-1337.herokuapp.com/"><img src="https://i.ibb.co/dt4q7cB/icon.png" alt="logo" width="150px" border="0"></a></p>ToDo List
 
 A **ToDo List** it’s a list of tasks you need to complete or things that you want to do.
 
