@@ -14,13 +14,12 @@ A **ToDo List** it’s a list of tasks you need to complete or things that you w
   * EJS
   * Lodash
   * Mongoose
-+ Implementation of MongoDB & MongoDB Atlas
++ Implementation of MongoDB
 + Implementation of node modules
 + Responsive design & Media Queries
 + Code with accessibility
 + Conventions & Best Practices
 + Semantic Elements
-+ Search engine optimization
 
 ---
 
